@@ -7,9 +7,9 @@ image:
   feature:
   credit:
 ---
-I started by working with plants and plastid genomes. I found the coevolutionary dynamices between nuclear and plastid genomes very interesting during my work with plastome structure variations and plant phylogeny. 
+I started by working with plants and plastid genomes. I found the coevolutionary dynamics between nuclear and plastid genomes very interesting during my work with plastome structure variations and plant phylogeny. 
 
-After joined nyu, I started to explore more about host-symbiosis interactions in the context of human & microbes.
+After joined nyu, I continued to explore more about host-symbiosis interactions in the context of human & microbes.
 
 ## Estimating disease similarity with metagenomic data of the human gut
 
