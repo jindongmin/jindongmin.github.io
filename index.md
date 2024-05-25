@@ -12,7 +12,7 @@ entries_layout: list
 
 Hi, I'm a PhD candidate in the Biology program at New York University, adivised by Dr. Richard Bonneau.
 
-I'm broadly interested in genomics, biological diversity, and evolutionary biology. See my Research page to know more about the ongoing and previous projects that I have worked on.
+I'm broadly interested in genomics, biological diversity, and evolutionary biology. See my Research page to know more about the ongoing and previous projects that I have worked on. I was born and grew up in [Lishui](https://en.wikipedia.org/wiki/Lishui), China.
 
 Below is a photo of my cat Luna. She is interested in shrimp, flashing lights, and all things moving fast.
 
