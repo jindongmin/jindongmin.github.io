@@ -16,6 +16,14 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/pdf/2024-AACR-Philadelphia-Marathon.pdf</loc>
+<lastmod>2024-05-25T14:30:48-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/2024-Elevation-Map-Marathon.pdf</loc>
+<lastmod>2024-05-25T14:30:43-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/pdf/asm2023.pdf</loc>
 <lastmod>2024-05-25T10:11:53-04:00</lastmod>
 </url>
@@ -26,6 +34,10 @@
 <url>
 <loc>http://localhost:4000/assets/pdf/cshl2024.pdf</loc>
 <lastmod>2024-05-25T10:05:53-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/duluth2024.pdf</loc>
+<lastmod>2024-05-25T14:28:22-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/rbcbkh23_map.pdf</loc>

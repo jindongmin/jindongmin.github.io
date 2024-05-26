@@ -72,9 +72,17 @@ Photos
 		alt="image"
 		width="600px">
 	</a>
-  <figcaption>Sea otter at Kenai Fjords National Park in Seward AK, 2022.</figcaption>
+  <figcaption>🦦 at Kenai Fjords National Park in Seward AK, 2022.</figcaption>
 </figure>
 
+<figure style="text-align: center;">
+	<a href="/assets/images/ant.jpg">
+		<img src="/assets/images/ant.jpg"
+		alt="image"
+		width="600px">
+	</a>
+  <figcaption>🐜 at Xishuangbanna Tropical Botanical Garden, 2017.</figcaption>
+</figure>
 
 Races
 
