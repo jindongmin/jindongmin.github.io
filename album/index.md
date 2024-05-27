@@ -7,7 +7,11 @@ image:
   credit:
 ---
 
-Posters
+<center>
+<h4> </h4>
+</center>
+
+## Posters
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/cshl2024.pdf" width="600" height="800" style="border: none;"></iframe>
 	<figcaption><a href="https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24">Biology of Genomes (May 7-11, 2024)</a>, Cold Spring Harbor, NY
@@ -28,7 +32,7 @@ Posters
 
 
 
-Photos
+## Photos
 
 <figure style="text-align: center;">
 	<a href="/assets/images/Yucca.jpg">
@@ -84,7 +88,7 @@ Photos
   <figcaption>🐜 at Xishuangbanna Tropical Botanical Garden, 2017.</figcaption>
 </figure>
 
-Races
+## Races
 
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/realsimple_2024_map.pdf" width="600" height="800" style="border: none;"></iframe>

@@ -14,6 +14,8 @@ image:
 
 ## Journal Articles
 
+- **Jin, D. M.**, Morton, J., & Bonneau, R. (2024).Meta-analysis of the human gut microbiome uncovers shared and distinct microbial signatures between diseases.mSystems, accepted.
+
 - Morton, J. T., **Jin, D. M.**, Mills, R. H., Shao, Y., Rahman, G., McDonald, D., ... & Taroncher-Oldenburg, G. (2023). [Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles.](https://www.nature.com/articles/s41593-023-01361-0) Nature neuroscience, 26(7), 1208-1217.
 
 - **Jin, D. M.**, Wicke, S., Gan, L., Yang, J. B., Jin, J. J., & Yi, T. S. (2020). [The loss of the inverted repeat in the putranjivoid clade of Malpighiales.](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.00942/full) Frontiers in plant science, 11, 530420.
