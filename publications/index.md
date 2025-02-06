@@ -14,7 +14,7 @@ image:
 
 ## Journal Articles
 
-- **Jin, D. M.**, Morton, J., & Bonneau, R. (2024). [Meta-analysis of the human gut microbiome uncovers shared and distinct microbial signatures between diseases.] (https://journals.asm.org/doi/10.1128/msystems.00295-24) mSystems, 9:e00295-24.
+- **Jin, D. M.**, Morton, J., & Bonneau, R. (2024). [Meta-analysis of the human gut microbiome uncovers shared and distinct microbial signatures between diseases.](https://journals.asm.org/doi/10.1128/msystems.00295-24) mSystems, 9:e00295-24.
 
 - Morton, J. T., **Jin, D. M.**, Mills, R. H., Shao, Y., Rahman, G., McDonald, D., ... & Taroncher-Oldenburg, G. (2023). [Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles.](https://www.nature.com/articles/s41593-023-01361-0) Nature neuroscience, 26(7), 1208-1217.
 
