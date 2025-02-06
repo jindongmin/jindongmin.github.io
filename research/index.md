@@ -7,9 +7,6 @@ image:
   feature:
   credit:
 ---
-<center>
-<h4> </h4>
-</center>
 
 I started by working with plants and plastid genomes. I found the coevolutionary dynamics between nuclear and plastid genomes very interesting during my work with plastome structure variations and plant phylogeny. 
 
@@ -17,7 +14,7 @@ After joined nyu, I continued to explore more about host-symbiosis interactions 
 
 ## Estimating disease similarity with metagenomic data of the human gut
 
-This work was inspired by the observation that individuals with autism spectrum disorder experience higher chance of gastrointesinal disturbances, such as constipation, diarrhea or abdominal pain. Besides, assessing disease similarity is an essential step preceding disease-based approach for drug repositioning. Our study provides a modest first step in underscoring the potential of integrating microbiome insights into the disease similarity assessment. Recent microbiome research has mainly focused on analyzing individual disease to understand its unique characteristics, which by design excludes comorbidities individuals. We analyzed shotgun metagenomic data from existing studies and identified previously unknown similarities between diseases. Our [pipeline](https://www.biorxiv.org/content/10.1101/2024.02.27.582333v1) represents an initial effort that utilize both interpretable machine learning and differential abundance analysis to assess microbial similarity between diseases.
+This work was inspired by the observation that individuals with autism spectrum disorder experience higher chances of gastrointestinal disturbances, such as constipation, diarrhea or abdominal pain. Besides, assessing disease similarity is an essential step preceding disease-based approach for drug repositioning. Our study provides a modest first step in underscoring the potential of integrating microbiome insights into the disease similarity assessment. Recent microbiome research has mainly focused on analyzing individual disease to understand its unique characteristics, which by design excludes comorbidities individuals. We analyzed shotgun metagenomic data from existing studies and identified previously unknown similarities between diseases. Our [pipeline](https://journals.asm.org/doi/10.1128/msystems.00295-24) represents an initial effort that utilizes both interpretable machine learning and differential abundance analysis to assess microbial similarity between diseases.
 
 <figure style="text-align: center;">
 	<a href="/assets/images/disease_similarity.png">
