@@ -32,7 +32,7 @@ image:
 
 
 
-## Photos 
+## Photos
 <figure style="text-align: center;">
     <a href="/assets/images/Sapria.jpg">
         <img src="/assets/images/Sapria.jpg"
@@ -97,6 +97,18 @@ image:
 </figure>
 
 ## Races
+<figure style="text-align: center;">
+  <iframe src="/assets/pdf/2024Philadelphia_Marathon.pdf" width="600" height="800" style="border: none;"></iframe>
+    <figcaption>AACR Philadelphia Marathon, 2024.
+              OFFICIAL TIME 04:14:16
+              PLACE OVERALL 6306 of 12350 </figcaption>
+
+<figure style="text-align: center;">
+  <iframe src="/assets/pdf/tcsnycm2024.pdf" width="600" height="800" style="border: none;"></iframe>
+    <figcaption>TCS New York City Marathon, 2024.
+              OFFICIAL TIME 04:15:40
+              PLACE OVERALL 24,712 of 55,529 </figcaption>
+
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/duluth2024.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption>Grandma's Marathon, 2024.
