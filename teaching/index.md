@@ -13,6 +13,8 @@ image:
 
 ## Courses
 
+- BIOL-UA 45 - Biostatistics and Human Genetics, Teaching Assistant, NYU, Spring 2025
+
 - BIOL-UA 45 - Biostatistics and Human Genetics, Teaching Assistant, NYU, Spring 2024
 
 - BIOL-UA 12 - Principles of Biology II, Teaching Assistant, NYU, Spring 2023
