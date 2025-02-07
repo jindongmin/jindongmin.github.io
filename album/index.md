@@ -97,6 +97,13 @@ image:
 </figure>
 
 ## Races
+
+<figure style="text-align: center;">
+  <iframe src="/assets/pdf/cnhalf.png" width="600" height="800" style="border: none;"></iframe>
+    <figcaption>Cangnan Half Marathon, 2024.
+              OFFICIAL TIME 01:54:33
+              PLACE OVERALL 2349 of 6000 </figcaption>
+
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/2024Philadelphia_Marathon.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption>AACR Philadelphia Marathon, 2024.
