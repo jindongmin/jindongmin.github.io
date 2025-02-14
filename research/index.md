@@ -12,7 +12,7 @@ I started by working with plants and plastid genomes. I found the coevolutionary
 
 After joined nyu, I continued to explore more about host-symbiosis interactions in the context of human & microbes.
 
-## Lower airway microbial signatures in lung diseases
+## Airway host-microbe interactions in lung diseases
 
 The dysbiosis of the lung microbiome plays an important role in lung dieseases pathogenesis. Previous studies found that increased abundance of oral commensal in the lung microbiome affects survival and host gene expressions in lung cancer. This is a collaborative project with [Dr. Leopoldo Segal](https://nyulangone.org/doctors/1336349620/leopoldo-n-segal) and [Dr. Zhang Wang](https://www.scholat.com/wangzhang). We are interested in identifying the host-microbiome interactions in lung diseases including lung cancer and Chronic Obstructive Pulmonary Dieses(COPD). We have paired meta-transcriptomic and host transcriptomic data from lung cancer and COPD cohorts. We aim to identify the host genetics-lung microbiome interactions. Specifically, we are interested in  identifying the specific microbes co-enriched with genes of interest. This work will help us to systematically identify the potential host-microbe interactions and identify biomarkers.
 
