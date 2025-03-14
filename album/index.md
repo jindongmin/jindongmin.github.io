@@ -102,7 +102,7 @@ image:
   <iframe src="/assets/pdf/2025tokyo_Marathon_.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption>Tokyo Marathon, Mar 2, 2025. 8°C - 20°C
               OFFICIAL TIME 04:15:56
-              PLACE OVERALL 16,511 of 37,785 </figcaption>
+              PLACE OVERALL 15,902 of 36,175 </figcaption>
 
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/cnhalf.pdf" width="600" height="800" style="border: none;"></iframe>
