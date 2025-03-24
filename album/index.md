@@ -30,8 +30,6 @@ image:
 	</figcaption>
 </figure>
 
-
-
 <figure style="text-align: center;">
 	<a href="/assets/images/Yucca.jpg">
 		<img src="/assets/images/Yucca.jpg"
