@@ -33,14 +33,14 @@ image:
 
 
 ## Photos
-<figure style="text-align: center;">
-    <a href="/assets/images/Sapria.jpg">
-        <img src="/assets/images/Sapria.jpg"
-        alt="image"
-        width="600px">
-    </a>
-  <figcaption><em>Sapria himalayana</em> at Xishuangbanna Tropical Rain Forest, 2025.</figcaption>
-</figure>
+#<figure style="text-align: center;">
+#    <a href="/assets/images/Sapria.jpg">
+#        <img src="/assets/images/Sapria.jpg"
+#        alt="image"
+#        width="600px">
+#    </a>
+#  <figcaption><em>Sapria himalayana</em> at Xishuangbanna Tropical Rain Forest, 2025.</figcaption>
+#</figure>
 
 <figure style="text-align: center;">
 	<a href="/assets/images/Yucca.jpg">
