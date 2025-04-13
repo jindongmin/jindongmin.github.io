@@ -10,7 +10,7 @@ entries_layout: list
     <span style="font-weight: bold;"></span>
 </div>
 
-Hi, I'm a PhD candidate in the Biology program at New York University, adivised by Dr. Richard Bonneau.
+Hi, I'm a PhD candidate in the Biology program at New York University, adivised by Dr. Richard Bonneau. You can reach me by email dj2080 at nyu dot edu.
 
 I'm broadly interested in genomics, biological diversity, and evolutionary biology. See my Research page to know more about the ongoing and previous projects that I have worked on. I was born and grew up in [Lishui](https://en.wikipedia.org/wiki/Lishui), China.
 
