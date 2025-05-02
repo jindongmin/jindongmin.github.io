@@ -18,7 +18,7 @@ The dysbiosis of the lung microbiome plays an important role in lung dieseases p
 
 <figure style="text-align: center;">
 	<a href="/assets/images/airway.png">
-		<img src="/assets/images/disease_similarity.png"
+		<img src="/assets/images/airway.png"
 		alt="image"
 		width="500px">
 	</a>
