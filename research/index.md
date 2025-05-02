@@ -16,6 +16,15 @@ After joined nyu, I continued to explore more about host-symbiosis interactions 
 
 The dysbiosis of the lung microbiome plays an important role in lung dieseases pathogenesis. Previous studies found that increased abundance of oral commensal in the lung microbiome affects survival and host gene expressions in lung cancer. This is a collaborative project with [Dr. Leopoldo Segal](https://nyulangone.org/doctors/1336349620/leopoldo-n-segal) and [Dr. Zhang Wang](https://www.scholat.com/wangzhang). We are interested in identifying the host-microbiome interactions in lung diseases including lung cancer and Chronic Obstructive Pulmonary Disease (COPD). We have paired metagenomic or metatranscriptomic and host transcriptomic data from lung cancer and COPD cohorts. Topological data analysis network-based co-enrichment analysis was applied to identify the specific microbes co-enriched with genetic driver and risk genes. This work will allow us to systematically identify the potential host-microbe interactions and identify biomarkers.
 
+<figure style="text-align: center;">
+	<a href="/assets/images/airway.png">
+		<img src="/assets/images/disease_similarity.png"
+		alt="image"
+		width="500px">
+	</a>
+  <figcaption>Shared host-microbe interactions for lung cancer patients across metagenomic and metatranscriptomic data.</figcaption>
+</figure>
+
 ## Estimating disease similarity with metagenomic data of the human gut
 
 This work was inspired by the observation that individuals with autism spectrum disorder experience higher chances of gastrointestinal disturbances, such as constipation, diarrhea or abdominal pain. Besides, assessing disease similarity is an essential step preceding disease-based approach for drug repositioning. Our study provides a modest first step in underscoring the potential of integrating microbiome insights into the disease similarity assessment. Recent microbiome research has mainly focused on analyzing individual disease to understand its unique characteristics, which by design excludes comorbidities individuals. We analyzed shotgun metagenomic data from existing studies and identified previously unknown similarities between diseases. Our [pipeline](https://journals.asm.org/doi/10.1128/msystems.00295-24) represents an initial effort that utilizes both interpretable machine learning and differential abundance analysis to assess microbial similarity between diseases.
