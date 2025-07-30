@@ -32,6 +32,15 @@ image:
 
 ## Photos
 <figure style="text-align: center;">
+	<a href="/assets/images/lighthouse.jpg">
+		<img src="/assets/images/lighthouse.jpg"
+		alt="image"
+		width="600px">
+	</a>
+  <figcaption>Lighthouse at Newport in Portland, 2025.</figcaption>
+</figure>
+
+<figure style="text-align: center;">
 	<a href="/assets/images/Yucca.jpg">
 		<img src="/assets/images/Yucca.jpg"
 		alt="image"
