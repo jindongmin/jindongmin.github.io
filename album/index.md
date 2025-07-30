@@ -32,12 +32,20 @@ image:
 
 ## Photos
 <figure style="text-align: center;">
+	<a href="/assets/images/TuftedPuffin_commonMurre.png">
+		<img src="/assets/images/TuftedPuffin_commonMurre.png"
+		alt="image"
+		width="600px">
+	</a>
+  <figcaption>Tufted Puffin and Common Murre at Cannon Beach in Oregon, 2025.</figcaption>
+</figure>
+<figure style="text-align: center;">
 	<a href="/assets/images/lighthouse.jpg">
 		<img src="/assets/images/lighthouse.jpg"
 		alt="image"
 		width="600px">
 	</a>
-  <figcaption>Lighthouse at Newport in Portland, 2025.</figcaption>
+  <figcaption>Lighthouse at Newport in Oregon, 2025.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
