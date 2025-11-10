@@ -104,7 +104,7 @@ image:
 
 ## Races
 <figure style="text-align: center;">
-  <iframe src="/assets/images/princetonHalf2025.png" width="600" height="800" style="border: none;"></iframe>
+  <iframe src="/assets/images/princetonHalf2025.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption> Princeton Half Marathon, Nov 9, 2025. 11°C
               OFFICIAL TIME 01:56:40
               PLACE OVERALL 726 of 1,772 </figcaption>
