@@ -104,6 +104,12 @@ image:
 
 ## Races
 <figure style="text-align: center;">
+  <iframe src="/assets/pdf/CIM_map2025.pdf" width="600" height="800" style="border: none;"></iframe>
+    <figcaption> California International Marathon, Dec 7, 2025. 5°C
+              OFFICIAL TIME 03:59:34
+              PLACE OVERALL 5,155 of 8,182 </figcaption>
+
+<figure style="text-align: center;">
   <iframe src="/assets/pdf/princetonHalf2025.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption> Princeton Half Marathon, Nov 9, 2025. 11°C
               OFFICIAL TIME 01:56:40
