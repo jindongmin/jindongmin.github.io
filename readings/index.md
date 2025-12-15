@@ -19,3 +19,9 @@ image:
 
 ## *Fusobacterium nucleatum*
 [A distinct *Fusobacterium nucleatum* clade dominates the colorectal cancer niche](https://www.nature.com/articles/s41586-024-07182-w)
+
+## Cordycipitaceae
+[Defensive fungal symbiosis on insect hindlegs](https://www.science.org/doi/10.1126/science.adp6699)
+
+## *Salmonella enterica*
+
