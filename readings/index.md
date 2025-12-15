@@ -17,4 +17,5 @@ image:
 
 ## *Akkermansia muciniphila*
 
-
+## *Fusobacterium nucleatum*
+[A distinct *Fusobacterium nucleatum* clade dominates the colorectal cancer niche](https://www.nature.com/articles/s41586-024-07182-w)
