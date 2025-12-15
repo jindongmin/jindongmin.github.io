@@ -143,7 +143,7 @@ image:
   <iframe src="/assets/pdf/duluth2024.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption>Grandma's Marathon, Jun 22, 2024.
               OFFICIAL TIME 04:27:34
-              PLACE OVERALL 4681 of 7556 </figcaption>
+              PLACE OVERALL 4,681 of 7,556 </figcaption>
 
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/realsimple_2024_map.pdf" width="600" height="800" style="border: none;"></iframe>
