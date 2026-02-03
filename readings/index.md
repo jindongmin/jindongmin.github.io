@@ -28,8 +28,4 @@ image:
 
 [Meta-omics analysis of elite athletes identifies a performance-enhancing microbe that functions via lactate metabolism](https://www.nature.com/articles/s41591-019-0485-4)
 
-## *Bacteroides thetaiotaomicron* 
-Thiamine (VB1) biosynthesis protein ThiC in *Bacteroides thetaiotaomicron* contains a inverton that introduces a premature stop codon when inverted. *Bacteroides thetaiotaomicron* have the capacity to biosynthesize thiamine while at a large energetic cost. This work showed that at human intestine thiamine concentrations (0.02-2μM),strain with inverted inverton was more fit than the prototrophic strain. However, they found thiamine availability does not promote rapid *thiC* inverton flipping and the inversions are probably stochastic. It fits a bet-hedging model.
-[Intragenic DNA inversions expand bacterial coding capacity](https://www.nature.com/articles/s41586-024-07970-4)
-
-
+## *Bacteroides thetaiotaomicron*
