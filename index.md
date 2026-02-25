@@ -17,11 +17,16 @@ I'm interested in genomics, biological diversity, and evolution. See my Research
 Below are photos of my cat Luna. She is interested in shrimp, flashing lights, and all things moving fast.
 
 <div style="text-align: center;">
-    <img src="{{ site.url }}/assets/images/luna.png" width="150px" style="display: block; margin: 0 auto;">
-    <span style="font-weight: bold;">1-year-old</span>
+    <img src="{{ site.url }}/assets/images/luna2023.png" width="150px" style="display: block; margin: 0 auto;">
+    <span style="color: #FF6F61;">1-year-old</span>
+</div>
+
+<div style="text-align: center;">
+    <img src="{{ site.url }}/assets/images/luna2024.JPG" width="150px" style="display: block; margin: 0 auto;">
+    <span style="color: #FF6F61;">2-years-old</span>
 </div>
 
 <div style="text-align: center;">
     <img src="{{ site.url }}/assets/images/luna2025.png" width="150px" style="display: block; margin: 0 auto;">
-    <span style="font-weight: bold;">2-years-old</span>
+    <span style="color: #FF6F61;">3-years-old</span>
 </div>
