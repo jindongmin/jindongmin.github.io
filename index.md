@@ -18,15 +18,15 @@ Below are photos of my cat Luna. She is interested in shrimp, flashing lights, a
 
 <div style="text-align: center;">
     <img src="{{ site.url }}/assets/images/luna2023.png" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #FF6F61;">1-year-old</span>
+    <span style="color: #f0f6fc;">1-year-old</span>
 </div>
 
 <div style="text-align: center;">
     <img src="{{ site.url }}/assets/images/luna2024.JPG" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #FF6F61;">2-years-old</span>
+    <span style="color: #f0f6fc;">2-years-old</span>
 </div>
 
 <div style="text-align: center;">
     <img src="{{ site.url }}/assets/images/luna2025.png" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #FF6F61;">3-years-old</span>
+    <span style="color: #f0f6fc;">3-years-old</span>
 </div>
