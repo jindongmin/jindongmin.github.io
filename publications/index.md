@@ -14,7 +14,7 @@ image:
 
 ## Journal Articles
 
-- In preparaton Airway host-microbe interactions in lung cancer and chronic obstructive pulmonary disease
+- Airway host-microbe interactions in lung cancer and chronic obstructive pulmonary disease. In preparaton
 
 - **Jin, D. M.**, Morton, J., & Bonneau, R. (2024). [Meta-analysis of the human gut microbiome uncovers shared and distinct microbial signatures between diseases.](https://journals.asm.org/doi/10.1128/msystems.00295-24) mSystems, 9:e00295-24.
 
