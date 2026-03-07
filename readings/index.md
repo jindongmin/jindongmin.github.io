@@ -23,7 +23,7 @@ Thiamine (VB1) biosynthesis protein ThiC in *Bacteroides thetaiotaomicron* conta
 #### [*Fusobacterium nucleatum*](https://www.nature.com/articles/s41586-024-07182-w)
 
 
-#### [*Salmonella enterica*](10.1016/j.cub.2018.05.058)
+#### [*Salmonella enterica*](<https://www.cell.com/current-biology/fulltext/S0960-9822(18)30694-8>)
 
 
 #### [*Veillonella atypica*](https://www.nature.com/articles/s41591-019-0485-4)
