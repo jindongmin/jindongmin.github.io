@@ -14,7 +14,7 @@ image:
 ## Microbe
 #### *Akkermansia muciniphila*
 
-### [*Bacillus licheniformis*](https://academic.oup.com/auk/article/134/2/466/5149157)
+#### [*Bacillus licheniformis*](https://academic.oup.com/auk/article/134/2/466/5149157)
 Preferential attachment and colonization of the keratinolytic bacterium *Bacillus licheniformis* on black- and white-striped feathers
 
 #### [*Bacteroides thetaiotaomicron*](https://www.nature.com/articles/s41586-024-07970-4)
