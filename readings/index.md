@@ -42,4 +42,4 @@ Thiamine (VB1) biosynthesis protein ThiC in *Bacteroides thetaiotaomicron* conta
 
 ## Others
 
-#### [*Into the thin air*] by Jon Krakauer
+*Into the thin air* by Jon Krakauer
