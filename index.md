@@ -10,7 +10,7 @@ entries_layout: list
     <span style="font-weight: bold;"></span>
 </div>
 
-I did my PhD at New York University in the Biology department. I graduated in 2025. You can reach me by email dj2080 at nyu dot edu.
+I am a postdoc at Princeton University in the EEB department Moeller Lab. I did my PhD at New York University in the Biology department. I graduated in 2025. You can reach me by email dj2080 at nyu dot edu.
 
 I'm interested in genomics, biological diversity, and evolution. See my Research page to know more about the ongoing and previous projects that I have worked on. I was born and grew up in [Lishui](https://en.wikipedia.org/wiki/Lishui), China.
 
