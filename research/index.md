@@ -8,10 +8,6 @@ image:
   credit:
 ---
 
-I started by working with plants and plastid genomes in angiosperm. I found the coevolutionary dynamics between nuclear and plastid genomes very interesting during my work with plastome structure variations and plant phylogeny. 
-
-After joined nyu, I continued to explore more about host-symbiosis interactions in the context of human & microbes.
-
 ## Airway host-microbe interactions in lung diseases
 
 This is a collaborative project with [Dr. Leopoldo Segal](https://nyulangone.org/doctors/1336349620/leopoldo-n-segal) and [Dr. Zhang Wang](https://www.scholat.com/wangzhang). The dysbiosis of the lung microbiome plays an important role in lung dieseases pathogenesis. Increased abundance of oral commensals in the lung microbiome affects survival and host gene expressions in lung cancer. We are interested in identifying the host-microbiome interactions in lung diseases including lung cancer and Chronic Obstructive Pulmonary Disease (COPD). We have paired metagenomic or metatranscriptomic and host transcriptomic data from lung cancer and COPD cohorts. Topological data analysis network-based co-enrichment analysis was applied to identify the specific microbes co-enriched with genetic driver and risk genes. This work will allow us to systematically identify the potential host-microbe interactions and identify biomarkers.
@@ -42,7 +38,7 @@ This work was inspired by the observation that individuals with autism spectrum 
 
 Gut microbiome has been considered as the second genome in our body due to its significant impact on our health and well-being. Autism spectrum disorder (ASD) is heterogeneous neurological condition that has been implicated to be associated with disruptions in the gut-brain axis ([GBA](https://www.nature.com/articles/s41579-020-00460-0)) although with limited reproducibility across studies.
 
-I worked with [Dr. James Morton,](https://www.simonsfoundation.org/people/james-morton/) [Dr. Gaspar Taroncher-Oldenburg,](https://www.sfari.org/people/gaspar-taroncher-oldenburg/) and [Dr. Richard Bonneau](https://www.simonsfoundation.org/people/richard-bonneau/) on this collaborative project. [This study](https://www.nature.com/articles/s41593-023-01361-0) proposed a Bayesian differential ranking algorithm based framework to leverage multi-omic datasets and investigated how the GBA affects ASD. Within this project, I led the data processing for shotgun metagenomics samples and RNA expression data. We found that microbial profiles are predictive of ASD except in the sibling-matched cohorts. I also did co-occurrence analysis to identify candidate viral-microbe interactions. Our results found that *Prevotella copri* and *Bacteroides fragilis* both co-occurred with phages enriched in children with ASD or in neurotypical children. 
+I worked with [Dr. Richard Bonneau](https://www.simonsfoundation.org/people/richard-bonneau/), [Dr. James Morton,](https://www.simonsfoundation.org/people/james-morton/), and [Dr. Gaspar Taroncher-Oldenburg,](https://www.sfari.org/people/gaspar-taroncher-oldenburg/) on this collaborative project. [This study](https://www.nature.com/articles/s41593-023-01361-0) proposed a Bayesian differential ranking algorithm based framework to leverage multi-omic datasets and investigated how the GBA affects ASD. Within this project, I led the data processing for shotgun metagenomics samples and RNA expression data. We found that microbial profiles are predictive of ASD except in the sibling-matched cohorts. I also did co-occurrence analysis to identify candidate viral-microbe interactions. Our results found that *Prevotella copri* and *Bacteroides fragilis* both co-occurred with phages enriched in children with ASD or in neurotypical children. 
 
 
 <figure style="text-align: center;">

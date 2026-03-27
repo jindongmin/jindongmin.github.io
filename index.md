@@ -12,7 +12,7 @@ entries_layout: list
 
 I am a postdoc at Princeton University in the EEB department Moeller Lab. I did my PhD at New York University in the Biology department. I graduated in 2025. You can reach me by email dj2080 at nyu dot edu.
 
-I'm interested in genomics, biological diversity, and evolution. See my Research page to know more about the ongoing and previous projects that I have worked on. I was born and grew up in [Lishui](https://en.wikipedia.org/wiki/Lishui), China.
+I'm interested in genomics, biological diversity, and evolution.I started by working with plants and plastid genomes in angiosperm. I found the coevolutionary dynamics between nuclear and plastid genomes very interesting during my work with plastome structure variations and plant phylogeny. After joined nyu Bonneau lab, I continued to explore more about host-symbiosis interactions in the context of human & microbes. See my Research page to know more about the ongoing and previous projects that I have worked on. I was born and grew up in [Lishui](https://en.wikipedia.org/wiki/Lishui), China.
 
 Below are photos of my cat Luna. She is interested in shrimp, flashing lights, and all things moving fast.
 
