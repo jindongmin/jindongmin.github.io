@@ -7,8 +7,9 @@ image:
   feature:
   credit:
 ---
-
-<h4 style="text-align: center;"></h4>
+<div style="text-align: center;">
+  <h4> </h4>
+</div>
 
 ## Airway host-microbe interactions in lung diseases
 
