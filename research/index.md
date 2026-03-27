@@ -11,6 +11,10 @@ image:
   <h4> </h4>
 </div>
 
+## Adaptive structural variation of of gut bacterial species
+
+Updates coming soon.
+
 ## Airway host-microbe interactions in lung diseases
 
 This is a collaborative project with [Dr. Leopoldo Segal](https://nyulangone.org/doctors/1336349620/leopoldo-n-segal) and [Dr. Zhang Wang](https://www.scholat.com/wangzhang). The dysbiosis of the lung microbiome plays an important role in lung dieseases pathogenesis. Increased abundance of oral commensals in the lung microbiome affects survival and host gene expressions in lung cancer. We are interested in identifying the host-microbiome interactions in lung diseases including lung cancer and Chronic Obstructive Pulmonary Disease (COPD). We have paired metagenomic or metatranscriptomic and host transcriptomic data from lung cancer and COPD cohorts. Topological data analysis network-based co-enrichment analysis was applied to identify the specific microbes co-enriched with genetic driver and risk genes. This work will allow us to systematically identify the potential host-microbe interactions and identify biomarkers.
