@@ -38,6 +38,7 @@ Gut pathogen *Clostridium symbiosum* rewires macrophage succinylation to drive e
 ## Host
 
 #### Cathelicidins
+[Cathelicidins: family of antimicrobial peptides. A review](https://pubmed.ncbi.nlm.nih.gov/23065264/)
 
 #### Melanin
 
