@@ -42,10 +42,12 @@ Thiamine (VB1) biosynthesis protein ThiC in *Bacteroides thetaiotaomicron* conta
 <details>
   <summary><b>Host</b></summary>
 
-  #### Cathelicidins  
-  [Cathelicidins: family of antimicrobial peptides. A review](https://pubmed.ncbi.nlm.nih.gov/23065264/)
+  <p><b>Cathelicidins</b><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/23065264/">
+    Family of antimicrobial peptides (review)
+  </a></p>
 
-  #### Melanin
+  <p><b>Melanin</b></p>
 
 </details>
 
