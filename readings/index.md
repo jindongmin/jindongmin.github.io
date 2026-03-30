@@ -16,17 +16,11 @@ image:
   <div>
   <p><b><i>Akkermansia muciniphila</i></b><br>
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016876">
-    The Genome of Akkermansia muciniphila, a Dedicated Intestinal Mucin Degrader, and Its Use in Exploring Intestinal Metagenomes
-  </a></p>
-
-  <p>
+    The Genome of Akkermansia muciniphila, a Dedicated Intestinal Mucin Degrader, and Its Use in Exploring Intestinal Metagenomes</a>
   <a href="https://www.nature.com/articles/nm.4236">
-    A purified membrane protein from Akkermansia muciniphila or the pasteurized bacterium improves metabolism in obese and diabetic mice
-  </a></p>
-  <p>
+    A purified membrane protein from Akkermansia muciniphila or the pasteurized bacterium improves metabolism in obese and diabetic mice</a>
   <a href="https://link.springer.com/article/10.1186/s12864-017-4195-3">
-    Genome sequencing of 39 Akkermansia muciniphila isolates reveals its population structure, genomic and functional diverisity, and global distribution in mammalian gut microbiotas
-  </a></p>
+    Genome sequencing of 39 Akkermansia muciniphila isolates reveals its population structure, genomic and functional diverisity, and global distribution in mammalian gut microbiotas</a></p>
 
   <p><b><i>Bacillus licheniformis</i></b><br>
   <a href="https://academic.oup.com/auk/article/134/2/466/5149157">
@@ -76,12 +70,10 @@ image:
     <a href="https://pubmed.ncbi.nlm.nih.gov/23065264/">
       Cathelicidins: family of antimicrobial peptides. A review
     </a>
-   </p>
-   
-   <p>
-     <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018756">
-       Expression and Activity of a Novel Cathelicidin from Domestic Cats
-     </a>
+     
+    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018756">
+      Expression and Activity of a Novel Cathelicidin from Domestic Cats
+    </a>
    </p>
 
    <p><b>Melanin</b></p>
