@@ -105,9 +105,13 @@ image:
 ## Running
 
 <figure style="text-align: center;">
-  <iframe src="/assets/images/ManhattanLoop.png" width="600" height="800" style="border: none;"></iframe>
-    <figcaption> Manhattan Full Loop, Mar 29, 2026. 3°C
-		52km TIME 06:16:26 Total Elapsed time 07:40:28 </figcaption>
+  <a href="/assets/images/ManhattanLoop.png"
+          <img src="/assets/images/ManhattanLoop.png"
+	  alt="image"
+          width="600px">
+  </a>          
+<figcaption> Manhattan Full Loop, Mar 29, 2026. 3°C 52km TIME 06:16:26 Total Elapsed time 07:40:28 </figcaption>
+</figure>
 
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/CIM_map2025.pdf" width="600" height="800" style="border: none;"></iframe>
