@@ -18,7 +18,7 @@ image:
 
   <p><b><i>Bacillus licheniformis</i></b><br>
   <a href="https://academic.oup.com/auk/article/134/2/466/5149157">
-    Preferential attachment and colonization of the keratinolytic bacterium <i>Bacillus licheniformis<i> on black- and white-striped feathers
+    Preferential attachment and colonization of the keratinolytic bacterium Bacillus licheniformis on black- and white-striped feathers
   </a></p>
 
   <p><b><i>Bacteroides thetaiotaomicron</i></b><br>
