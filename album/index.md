@@ -105,10 +105,10 @@ image:
 ## Running
 
 <figure style="text-align: center;">
-  <a href="/assets/images/ManhattanLoop.png"
-          <img src="/assets/images/ManhattanLoop.png"
-	  alt="image"
-          width="600px">
+        <a href="/assets/images/ManhattanLoop.png">
+                <img src="/assets/images/ManhattanLoop.png"
+	        alt="image"
+                width="600px">
   </a>          
 <figcaption> Manhattan Full Loop, Mar 29, 2026. 3°C 52km TIME 06:16:26 Total Elapsed time 07:40:28 </figcaption>
 </figure>
