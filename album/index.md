@@ -102,7 +102,13 @@ image:
   <figcaption>🐜 at Xishuangbanna Tropical Botanical Garden, 2017.</figcaption>
 </figure>
 
-## Races
+## Running
+
+<figure style="text-align: center;">
+  <iframe src="/assets/images/ManhattanLoop.png" width="600" height="800" style="border: none;"></iframe>
+    <figcaption> Manhattan Full Loop, Mar 29, 2026. 3°C
+		52km TIME 06:16:26 Total Elapsed time 07:40:28 </figcaption>
+
 <figure style="text-align: center;">
   <iframe src="/assets/pdf/CIM_map2025.pdf" width="600" height="800" style="border: none;"></iframe>
     <figcaption> California International Marathon, Dec 7, 2025. 5°C
