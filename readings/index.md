@@ -13,16 +13,17 @@ image:
 
 <details>
   <summary><b>Microbe</b></summary>
-
+  <div>
   <p><b><i>Akkermansia muciniphila</i></b></p>
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016876">
     The Genome of Akkermansia muciniphila, a Dedicated Intestinal Mucin Degrader, and Its Use in Exploring Intestinal Metagenomes
   </a></p>
 
+  <p>
   <a href="https://www.nature.com/articles/nm.4236">
     A purified membrane protein from Akkermansia muciniphila or the pasteurized bacterium improves metabolism in obese and diabetic mice
   </a></p>
-  
+  <p>
   <a href="https://link.springer.com/article/10.1186/s12864-017-4195-3">
     Genome sequencing of 39 Akkermansia muciniphila isolates reveals its population structure, genomic and functional diverisity, and global distribution in mammalian gut microbiotas
   </a></p>
@@ -64,22 +65,27 @@ image:
   </a><br>
   Scheiman et al. 2019 provides an example of a host-microbiome metabolic feedback loop linking exercise-induced lactate to microbial propionate production and endurance performance. It illustrates how exercise shapes the gut microbiome.</p>
 
+  </div>
 </details>
 
 <details>
   <summary><b>Host</b></summary>
+  
+  <div>
+   <p><b>Cathelicidins</b><br>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/23065264/">
+      Cathelicidins: family of antimicrobial peptides. A review
+    </a>
+   </p>
+   
+   <p>
+     <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018756">
+       Expression and Activity of a Novel Cathelicidin from Domestic Cats
+     </a>
+   </p>
 
-  <p><b>Cathelicidins</b><br>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/23065264/">
-    Cathelicidins: family of antimicrobial peptides. A review
-  </a></p>
-
-  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018756">
-    Expression and Activity of a Novel Cathelicidin from Domestic Cats
-  </a></p>
-
-  <p><b>Melanin</b></p>
-
+   <p><b>Melanin</b></p>
+  </div>
 </details>
 
 <details>
