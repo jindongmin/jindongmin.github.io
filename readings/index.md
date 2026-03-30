@@ -14,7 +14,7 @@ image:
 <details>
   <summary><b>Microbe</b></summary>
   <div>
-  <p><b><i>Akkermansia muciniphila</i></b></p>
+  <p><b><i>Akkermansia muciniphila</i></b><br>
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016876">
     The Genome of Akkermansia muciniphila, a Dedicated Intestinal Mucin Degrader, and Its Use in Exploring Intestinal Metagenomes
   </a></p>
