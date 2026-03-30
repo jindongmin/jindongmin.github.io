@@ -35,3 +35,35 @@ Below are photos of my cat Luna. She is interested in shrimp, flashing lights, a
     <img src="{{ site.url }}/assets/images/luna2026.jpg" width="150px" style="display: block; margin: 0 auto;">
     <span style="color: #ffffff;">3-years-old</span>
 </div>
+
+<div class="carousel">
+
+  <button class="arrow left" onclick="moveSlide(-1)">&#10094;</button>
+
+  <div class="carousel-track" id="track">
+
+    <div class="slide">
+      <img src="{{ site.url }}/assets/images/luna2023.png">
+      <div class="caption">babygirl</div>
+    </div>
+
+    <div class="slide">
+      <img src="{{ site.url }}/assets/images/luna2024.JPG">
+      <div class="caption">1-year-old</div>
+    </div>
+
+    <div class="slide">
+      <img src="{{ site.url }}/assets/images/luna2025.png">
+      <div class="caption">2-years-old</div>
+    </div>
+
+    <div class="slide">
+      <img src="{{ site.url }}/assets/images/luna2026.jpg">
+      <div class="caption">3-years-old</div>
+    </div>
+
+  </div>
+
+  <button class="arrow right" onclick="moveSlide(1)">&#10095;</button>
+
+</div>
