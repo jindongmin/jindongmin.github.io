@@ -16,26 +16,6 @@ I'm interested in genomics, biological diversity, and evolution.I started by wor
 
 Below are photos of my cat Luna. She is interested in shrimp, flashing lights, and all things moving fast.
 
-<div style="text-align: center;">
-    <img src="{{ site.url }}/assets/images/luna2023.png" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #ffffff;">babygirl</span>
-</div>
-
-<div style="text-align: center;">
-    <img src="{{ site.url }}/assets/images/luna2024.JPG" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #ffffff;">1-year-old</span>
-</div>
-
-<div style="text-align: center;">
-    <img src="{{ site.url }}/assets/images/luna2025.png" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #ffffff;">2-years-old</span>
-</div>
-
-<div style="text-align: center;">
-    <img src="{{ site.url }}/assets/images/luna2026.jpg" width="150px" style="display: block; margin: 0 auto;">
-    <span style="color: #ffffff;">3-years-old</span>
-</div>
-
 <style>
   /* container */
   .luna-grid-container {
@@ -55,7 +35,7 @@ Below are photos of my cat Luna. She is interested in shrimp, flashing lights, a
 
   .luna-card img {
     width: 150px;
-    height: 150px;      
+    height: 225px;      
     object-fit: cover;  /* auto cut */
     display: block;
     margin: 0 auto 8px auto;
