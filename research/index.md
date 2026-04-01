@@ -11,7 +11,7 @@ image:
   <h4> </h4>
 </div>
 
-## Adaptive structural variation of of gut bacterial species
+## Adaptive structural variation of gut bacterial species in response to dietary transitions
 
 Updates coming soon.
 
