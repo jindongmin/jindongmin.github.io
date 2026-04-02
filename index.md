@@ -10,7 +10,7 @@ entries_layout: list
     <span style="font-weight: bold;"></span>
 </div>
 
-I am a postdoctoral reseracher in the EEB department [Moeller Lab](https://www.moellerlab.com/) at Princeton University. I earned my PhD from New York University, where I was advised by [Richard Bonneau](https://www.simonsfoundation.org/people/richard-bonneau/). I graduated in 2025. You can reach me by email dj2080 at nyu dot edu.
+I am a postdoctoral reseracher in the EEB department [Moeller Lab](https://www.moellerlab.com/) at Princeton University. I received my PhD from New York University, where I was advised by [Richard Bonneau](https://www.simonsfoundation.org/people/richard-bonneau/). I graduated in 2025. You can reach me by email dj2080 at nyu dot edu.
 
 I'm interested in genomics, biological diversity, and evolution. See my [Research](https://jindongmin.github.io/research/) page to know more about the ongoing and previous projects that I have worked on. I was born and grew up in [Lishui](https://en.wikipedia.org/wiki/Lishui), China.
 
