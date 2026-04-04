@@ -68,6 +68,12 @@ image:
     A distinct Fusobacterium nucleatum clade dominates the colorectal cancer niche.
   </a></p>
 
+  <p><b><i>Odoribacter splanchnicus</i></b><br>
+  <a href="https://www.nature.com/articles/s41467-025-65692-1">
+    Odoribacter splanchnicus rescues aging-related intestinal P-glycoprotein damage via GDP-L-fucose secretion.
+  </a></p>
+
+
   <p><b><i>Salmonella enterica</i></b><br>
   <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(18)30694-8">
     Pan-genome Analysis of Ancient and Modern Salmonella enterica Demonstrates Genomic Stability of the Invasive Para C Lineage for Millennia.
