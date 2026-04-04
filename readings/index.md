@@ -31,6 +31,7 @@ image:
   <p><b><i>Alistipes putredinis</i></b><br>
   <a href="https://www.nature.com/articles/nature12820">
     Diet rapidly and reproducibly alters the human gut microbiome.
+  </a> from <a href="https://turnbaughlab.ucsf.edu/">Turnbaugh Lab 
   </a></p>
 
   <p><b><i>Bacillus licheniformis</i></b><br>
