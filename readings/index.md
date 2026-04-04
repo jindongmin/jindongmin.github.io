@@ -20,7 +20,18 @@ image:
   <a href="https://www.nature.com/articles/nm.4236">
     A purified membrane protein from Akkermansia muciniphila or the pasteurized bacterium improves metabolism in obese and diabetic mice.</a><br>
   <a href="https://link.springer.com/article/10.1186/s12864-017-4195-3">
-    Genome sequencing of 39 Akkermansia muciniphila isolates reveals its population structure, genomic and functional diverisity, and global distribution in mammalian gut microbiotas.</a></p>
+    Genome sequencing of 39 Akkermansia muciniphila isolates reveals its population structure, genomic and functional diverisity, and global distribution in mammalian gut microbiotas.
+  </a></p>
+
+  <p><b><i>Alistipes indistinctus</i></b><br>
+  <a href="https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00036-2">
+    Alistipes indistinctus-derived hippuric acid promotes intestinal urate excretion to alleviate hyperuricemia.
+  </a></p>
+
+  <p><b><i>Alistipes putredinis</i></b><br>
+  <a href="https://www.nature.com/articles/nature12820">
+    Diet rapidly and reproducibly alters the human gut microbiome.
+  </a></p>
 
   <p><b><i>Bacillus licheniformis</i></b><br>
   <a href="https://academic.oup.com/auk/article/134/2/466/5149157">
