@@ -42,6 +42,7 @@ image:
   <p><b><i>Bacteroides thetaiotaomicron</i></b><br>
   <a href="https://www.nature.com/articles/s41586-024-07970-4">
     Intragenic DNA inversions expand bacterial coding capacity.
+  </a> from <a href="https://www.bhattlab.com/">Bhatt Lab
   </a><br>
   Thiamine (VB1) biosynthesis protein ThiC in <i>Bacteroides thetaiotaomicron</i> contains an inverton that introduces a premature stop codon when inverted. This species has the capacity to biosynthesize thiamine at a large energetic cost. This work showed that at human intestinal thiamine concentrations (0.02–2 μM), strains with inverted inverton were more fit than prototrophic strains. However, thiamine availability does not promote rapid thiC inversion flipping, suggesting stochastic dynamics. It fits a <a href="https://royalsocietypublishing.org/rspb/article-abstract/276/1669/2963/72811/Bet-hedging-as-an-evolutionary-game-the-trade-off?redirectedFrom=fulltext">bet-hedging</a> model.</p>
 
@@ -59,6 +60,7 @@ image:
   <p><b>Cordycipitaceae</b><br>
   <a href="https://www.science.org/doi/10.1126/science.adp6699">
     Defensive fungal symbiosis on insect hindlegs.
+  </a> from <a href="https://www.jst.go.jp/erato/fukatsu/english/">Fakatsu Lab
   </a></p>
 
   <p><b><i>Fusobacterium nucleatum</i></b><br>
