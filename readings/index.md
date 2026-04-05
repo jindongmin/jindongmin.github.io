@@ -69,8 +69,8 @@ image:
   </a></p>
 
   <p><b><i>Lawsonibacter asaccharolyticus</i></b><br>
-  <a href="https://www.nature.com/articles/s41564-024-01858-9">
-    ☕️ Coffee consumption is associated with intestinal Lawsonibacter asaccharolyticus abundance and prevalence across multiple cohorts.
+  ☕️ <a href="https://www.nature.com/articles/s41564-024-01858-9">
+    Coffee consumption is associated with intestinal Lawsonibacter asaccharolyticus abundance and prevalence across multiple cohorts.
   </a></p>
 
   <p><b><i>Odoribacter splanchnicus</i></b><br>
