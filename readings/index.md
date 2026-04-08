@@ -108,6 +108,13 @@ image:
    </p>
 
    <p><b>Melanin</b></p>
+
+   <p><b>Hawaiian bobtail squid (<i>Euprymna scolopes</i>)</b><br>
+    <a href="https://www.nature.com/articles/517262a">
+      glowing bacteria Vibrio fischeri
+    </a>	
+   </p>
+
   </div>
 </details>
 
