@@ -16,11 +16,11 @@ image:
   <div>
   <p><b><i>Akkermansia muciniphila</i></b><br>
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016876">
-    The Genome of Akkermansia muciniphila, a Dedicated Intestinal Mucin Degrader, and Its Use in Exploring Intestinal Metagenomes.</a><br>
+    The Genome of Akkermansia muciniphila.</a><br>
   <a href="https://www.nature.com/articles/nm.4236">
-    A purified membrane protein from Akkermansia muciniphila or the pasteurized bacterium improves metabolism in obese and diabetic mice.</a><br>
+    A protein improves metabolism in obese and diabetic mice.</a><br>
   <a href="https://link.springer.com/article/10.1186/s12864-017-4195-3">
-    Genome sequencing of 39 Akkermansia muciniphila isolates reveals its population structure, genomic and functional diverisity, and global distribution in mammalian gut microbiotas.
+    Genome sequencing of 39 Akkermansia muciniphila isolates in mammalian gut microbiotas.
   </a></p>
 
   <p><b><i>Alistipes indistinctus</i></b><br>
@@ -38,6 +38,10 @@ image:
   <a href="https://academic.oup.com/auk/article/134/2/466/5149157">
     Preferential attachment and colonization of the keratinolytic bacterium Bacillus licheniformis on black- and white-striped feathers.
   </a></p>
+
+  <p><b><i>Bacteroides fragilis</i></b><br>
+  <a href="10.1016/j.cell.2009.02.041"> O-glycosylation system.</a>
+  </p>
 
   <p><b><i>Bacteroides thetaiotaomicron</i></b><br>
   <a href="https://www.nature.com/articles/s41586-024-07970-4">
@@ -59,8 +63,8 @@ image:
 
   <p><b>Cordycipitaceae</b><br>
   <a href="https://www.science.org/doi/10.1126/science.adp6699">
-    Defensive fungal symbiosis on insect hindlegs.
-  </a> from <a href="https://www.jst.go.jp/erato/fukatsu/english/">Fakatsu Lab
+    Defensive fungal symbiosis on insect hindlegs.</a> 
+    from <a href="https://www.jst.go.jp/erato/fukatsu/english/">Fakatsu Lab
   </a></p>
 
   <p><b><i>Fusobacterium nucleatum</i></b><br>
@@ -69,20 +73,22 @@ image:
   </a></p>
 
   <p><b><i>Lawsonibacter asaccharolyticus</i></b><br>
-  ☕️ <a href="https://www.nature.com/articles/s41564-024-01858-9">
-    Coffee consumption is associated with intestinal Lawsonibacter asaccharolyticus abundance and prevalence across multiple cohorts.
+  ☕️ <a href="https://www.nature.com/articles/s41564-024-01858-9">Coffee consumption correlation.
   </a></p>
 
   <p><b><i>Odoribacter splanchnicus</i></b><br>
-  <a href="https://www.nature.com/articles/s41467-025-65692-1">
-    Odoribacter splanchnicus rescues aging-related intestinal P-glycoprotein damage via GDP-L-fucose secretion.
+  <a href="https://www.nature.com/articles/s41467-025-65692-1">Rescues aging-related intestinal P-glycoprotein damage via GDP-L-fucose secretion.
   </a></p>
+
+  <p><b><i>Parabacteroides distasonis</i></b><br>
+  <a href="https://www.pnas.org/doi/10.1073/pnas.0608797104">Glycoproteins in Bacteroides.</a>
+  from <a href="https://comstocklab.uchicago.edu/">Comstock Lab</a><br>
+  </p>
 
 
   <p><b><i>Salmonella enterica</i></b><br>
-  <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(18)30694-8">
-    Pan-genome Analysis of Ancient and Modern Salmonella enterica Demonstrates Genomic Stability of the Invasive Para C Lineage for Millennia.
-  </a></p>
+  <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(18)30694-8">Pan-genome Analysis</a>
+  </p>
 
   <p><b><i>Veillonella atypica</i></b><br>
   <a href="https://www.nature.com/articles/s41591-019-0485-4">
