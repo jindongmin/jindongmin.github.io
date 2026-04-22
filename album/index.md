@@ -102,7 +102,7 @@ image:
   <figcaption>🐜 at Xishuangbanna Tropical Botanical Garden, 2017.</figcaption>
 </figure>
 
-## Running
+<!-- ## Running
 
 <figure style="text-align: center;">
         <a href="/assets/images/ManhattanLoop.png">
@@ -168,4 +168,4 @@ image:
     <figcaption>RBC Brooklyn Half, May 20, 2023.
   			  OFFICIAL TIME2:19:22
 			  PLACE OVERALL18,382 of 25,418 </figcaption>
-</figure>
+</figure> -->
