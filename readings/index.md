@@ -67,6 +67,12 @@ image:
     from <a href="https://www.jst.go.jp/erato/fukatsu/english/">Fakatsu Lab
   </a></p>
 
+  <p><b>Eubacterium rectale</b><br>
+  <a href="https://link.springer.com/article/10.1186/s13059-020-02042-y">
+    Phylogeographic population structure and subspecies functional adaptations.</a> 
+    from <a href="https://segatalab.github.io/">Segata Lab
+  </a></p>
+
   <p><b><i>Fusobacterium nucleatum</i></b><br>
   <a href="https://www.nature.com/articles/s41586-024-07182-w">
     A distinct Fusobacterium nucleatum clade dominates the colorectal cancer niche.
