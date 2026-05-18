@@ -139,6 +139,8 @@ image:
  
   <p><b><i>Banana: The Fate of the Fruit That Changed the World </i> by Dan Koeppel</b></p>
 
+  <p><b><i>The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence</i> by by Sebastian Mallaby</b></p>
+
 </details>
 
 
