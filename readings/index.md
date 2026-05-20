@@ -137,9 +137,9 @@ image:
   
   <p><b><i>Four fish</i> by Paul Greenberg</b></p>
  
-  <p><b><i>Banana: The Fate of the Fruit That Changed the World </i> by Dan Koeppel</b></p>
+  <p><b><i>Banana</i> by Dan Koeppel</b></p>
 
-  <p><b><i>The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence</i> by by Sebastian Mallaby</b></p>
+  <p><b><i>The Infinity Machine</i> by Sebastian Mallaby</b></p>
 
 </details>
 
