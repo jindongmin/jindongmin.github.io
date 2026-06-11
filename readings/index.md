@@ -20,7 +20,9 @@ image:
   <a href="https://www.nature.com/articles/nm.4236">
     A protein improves metabolism in obese and diabetic mice.</a><br>
   <a href="https://link.springer.com/article/10.1186/s12864-017-4195-3">
-    Genome sequencing of 39 Akkermansia muciniphila isolates in mammalian gut microbiotas.
+    Genome sequencing of 39 Akkermansia muciniphila isolates in mammalian gut microbiotas.</a><br> 
+  <a href="10.1016/j.chom.2026.04.019">
+    Epigenetic phase variation in the gut microbiome enhances bacterial adaptation.
   </a></p>
 
   <p><b><i>Alistipes indistinctus</i></b><br>
