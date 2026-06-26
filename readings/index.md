@@ -93,6 +93,9 @@ image:
   from <a href="https://comstocklab.uchicago.edu/">Comstock Lab</a><br>
   </p>
 
+  <p><b><i>Prevotella copri</i></b><br>
+  <a href="10.1016/j.chom.2019.08.018">Four distinct clades underrepresented in westernized populations.</a>
+  </p>
 
   <p><b><i>Salmonella enterica</i></b><br>
   <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(18)30694-8">Pan-genome Analysis</a>
@@ -142,6 +145,9 @@ image:
   <p><b><i>Banana</i> by Dan Koeppel</b></p>
 
   <p><b><i>The Infinity Machine</i> by Sebastian Mallaby</b></p>
+
+  <p><b><i>我是寨子里长大的女孩</i> by 扎十一惹</b></p>
+
 
 </details>
 
