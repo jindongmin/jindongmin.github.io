@@ -94,7 +94,7 @@ image:
   </p>
 
   <p><b><i>Prevotella copri</i></b><br>
-  <a href="10.1016/j.chom.2019.08.018">Four distinct clades underrepresented in westernized populations.</a>
+  <a href="https://www.cell.com/action/showPdf?pii=S1931-3128%2819%2930427-5">Four distinct clades underrepresented in westernized populations.</a>
   </p>
 
   <p><b><i>Salmonella enterica</i></b><br>
